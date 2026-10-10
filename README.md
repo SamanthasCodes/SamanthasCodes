@@ -14,7 +14,7 @@ I’m a curious, adaptable, and interdisciplinary researcher developing reliable
 
 My path from **chemical engineering → biomedical engineering → cognitive psychology → neuroscience & brain health** reflects what I enjoy most about science: bringing different perspectives and tools together to solve meaningful problems that can improve people's lives.
 
-### 🔬 Research interests
+### 📚 Research interests
 
 - Diffusion MRI
 - Human neurodevelopment
