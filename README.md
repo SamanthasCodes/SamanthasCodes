@@ -24,7 +24,7 @@ My path from **chemical engineering → biomedical engineering → cognitive psy
 - Reproducible methods
 - Clinical translation
 
-### 💫 Current work
+### 🌱 Current work
 
 My current neuroimaging projects are part of ongoing research and will be made publicly available as they progress toward publication and release.
 
