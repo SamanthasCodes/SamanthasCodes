@@ -24,9 +24,14 @@ My path from **chemical engineering → biomedical engineering → cognitive psy
 - Reproducible methods
 - Clinical translation
 
+### 💫 Current work
+
+My current neuroimaging projects are part of ongoing research and will be made publicly available as they progress toward publication and release.
+
 ### 🌎 Science by the people, for the people
 
 I believe **science is a public good**, and that it carries a responsibility to the communities that make it possible and the people it is ultimately meant to serve. That philosophy shapes my commitment to open, reproducible, and accessible science—and to communicating research beyond the walls of academia.
+
 
 ---
 
