@@ -1,4 +1,4 @@
-# Hi, I'm Samantha 👋
+# Hi, I'm Samantha ✨
 
 🧠 **PhD Researcher in Computational Neuroimaging**  
 📍 Toronto, Canada | University of Toronto & CAMH
